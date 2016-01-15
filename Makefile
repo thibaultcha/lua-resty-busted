@@ -7,6 +7,6 @@ install:
 	@cp bin/$(NAME) $(INSTALL_DIR)
 
 test:
-	@bin/busted
+	@bin/$(NAME)
 
 .PHONY: install test
