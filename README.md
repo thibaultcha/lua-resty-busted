@@ -41,7 +41,7 @@ From [resty-cli]'s documentation:
 
 ### License
 
-Work licensed under the MIT License. Please check [Olivine-Labs/busted][busted] for the license of the underlying, actual testing framework.
+Work licensed under the MIT License. Please check [Olivine-Labs/busted][busted] for the license of the underlying, actual testing framework, and [OpenResty/lua-resty-cli](https://github.com/openresty/resty-cli) for the license of the interpreter.
 
 [busted]: https://github.com/Olivine-Labs/busted
 [resty-cli]: https://github.com/openresty/resty-cli
