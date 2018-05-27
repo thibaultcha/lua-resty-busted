@@ -5,7 +5,7 @@ source = {
   tag = "0.0.1"
 }
 dependencies = {
-  "busted ~> 2.0.rc12"
+  "busted ~> 2.0.rc12-1"
 }
 description = {
   summary = "",
